@@ -11,8 +11,8 @@ Facial micro expressions detection using Python
 
 
 Technologies used:
-  opencv
-  mediapipe
-  tensorflow
-  keras
-  numpy
+  opencv,
+  mediapipe,
+  tensorflow,
+  keras,
+  numpy.
